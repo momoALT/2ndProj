@@ -5,8 +5,8 @@
 int main()
 {
 
-    double x;
-    double y;
+    int x;
+    int y;
     std::string dif;
     std::string is;
     std::string aword;
